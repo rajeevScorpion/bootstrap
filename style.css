@@ -1,0 +1,13 @@
+.mysection{
+    
+}
+
+.hero{
+    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
